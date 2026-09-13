@@ -1,0 +1,5 @@
+[projects.'c:\users\asus\codex']
+trust_level = "trusted"
+
+[windows]
+sandbox = "unelevated"
